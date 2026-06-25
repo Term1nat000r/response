@@ -53,3 +53,7 @@
 3. Система последовательно прогоняет текст через NLP-модуль, поиск НПА и языковую модель.
 4. На выходе формируется готовый документ (Word/PDF).
 5. Живой сотрудник читает черновик, нажимает кнопку «Утвердить», и письмо уходит заявителю.
+
+<img width="2500" height="500" alt="Linear_Pipeline-key" src="https://github.com/user-attachments/assets/eefc2038-ec00-4b7a-89e0-b320f4fbdaee" />
+<img width="5690" height="1857" alt="Linear_Pipeline" src="https://github.com/user-attachments/assets/13e18d48-4898-4aec-8674-8ec8631291ad" />
+
