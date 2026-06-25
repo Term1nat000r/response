@@ -18,6 +18,9 @@
 * **BGE-m3 / rubert-tiny2:** Embedding-модели для перевода текстов в векторное представление.
 
 ---
+<img width="5690" height="1891" alt="pipeline" src="https://github.com/user-attachments/assets/5677bd28-5300-4296-b653-f26ba0093655" />
+<img width="2500" height="500" alt="legend" src="https://github.com/user-attachments/assets/eed9c833-3e59-4984-8b20-edcb5a719043" />
+
 
 ## 2. Пайплайн обработки (Верхнеуровневая архитектура)
 
@@ -49,5 +52,3 @@
 5️⃣ ПОСТПРОЦЕССИНГ
    ├─ Вставка NER-сущностей в официальный шаблон.
    └─ Выгрузка готового документа / API ответ.
-<img width="5690" height="1891" alt="pipeline" src="https://github.com/user-attachments/assets/38a7a8c7-41ed-45b8-9b11-1b01dcc9b466" />
-
