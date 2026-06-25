@@ -49,3 +49,7 @@
 5️⃣ ПОСТПРОЦЕССИНГ
    ├─ Вставка NER-сущностей в официальный шаблон.
    └─ Выгрузка готового документа / API ответ.
+
+<img width="5690" height="1891" alt="pipeline" src="https://github.com/user-attachments/assets/024f6524-3cb6-41fc-88ba-35320cd7401c" />
+<img width="2500" height="500" alt="legend" src="https://github.com/user-attachments/assets/cc823881-208b-4f8e-b8ec-f6c9a0a46797" />
+
